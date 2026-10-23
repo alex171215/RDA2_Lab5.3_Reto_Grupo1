@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Laboratorio1"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name="com.paulrosero.laboratorio1.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.Laboratorio1">
             <intent-filter>
